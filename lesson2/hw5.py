@@ -31,5 +31,5 @@ print(item.price)
 item_sale = ItemDiscount(100, 150)
 print(item_sale)
 
-item_sale = ItemDiscount(100, 50)
+item_sale = ItemDiscount(100, 40)
 print(item_sale)
